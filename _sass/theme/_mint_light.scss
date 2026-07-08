@@ -39,6 +39,7 @@ $sidebar-screen-min-width   : 1024px;
 /* Light theme for the site */
 :root {
   --global-base-color                 : #{$primary-color};
+  --global-base-image                 : url("/assets/images/bgLight.png");
   --global-bg-color                   : #{$background};
   --global-footer-bg-color            : #{$footer};
   --global-border-color               : #{$border};
