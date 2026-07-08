@@ -34,9 +34,9 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Dark theme for the site */
 html[data-theme="dark"] {
-  --global-base-color                 : #{$primary-color};
-  /*  --global-bg-image                   : url('/assets/images/bgDark.png'); */
+    --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #{$background};
+   --global-bg-image                   : url('/images/bgDark.png');
     --global-footer-bg-color            : #{$footer};
     --global-border-color               : #{$border};
     --global-dark-border-color          : #{$border-light};
