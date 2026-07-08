@@ -11,6 +11,10 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
+  background-image: var(--global-bg-image);
+  background-repeat: repeat;
+  background-position: center;
+  
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
