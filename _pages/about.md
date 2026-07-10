@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dar' Zhar"
+title: ##title here
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,6 +12,17 @@ Hello, I am an online digital artist. I mostly make tarkov mods/assets, but some
 
 
 Blah blah yapping yapperton test text here
+
+Video Test
+<p align="center">
+    <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/watch?v=ADj2jDqT4uY"
+        title="Youtube Player Test"
+        frameborder="0">
+    </iframe>
+</p>
 
 below is a gif test. clicking it (href) sets where it directs to.
 <p align="center">
