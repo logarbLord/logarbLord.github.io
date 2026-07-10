@@ -40,7 +40,7 @@ $sidebar-screen-min-width   : 1024px;
 :root {
   --global-base-color                 : #{$primary-color};
   --global-bg-color                   : #{$background};
-  --global-content-bg                 : #{rgba(51, 50, 41, 0.8)};
+  --global-content-bg                 : #{rgba(51,50,41,0.8)};
   --global-bg-image                   : #{url("/images/bgLight.png")};
   --global-footer-bg-color            : #{$footer};
   --global-border-color               : #{$border};
