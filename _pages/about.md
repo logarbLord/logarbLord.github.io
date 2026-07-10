@@ -24,9 +24,9 @@ I currently hang out with the [WTT team](https://www.welcometotarkov.com/). They
 <script>
     function randomRedirect(){
         const links = [
-            "youtube.com",
-            "github.com",
-            "google.com"
+            "https://youtube.com",
+            "https://github.com",
+            "https://google.com"
         ];
         window.location.href = 
             links[Math.floor(Math.random() * links.length)];
