@@ -21,18 +21,20 @@ For this mod I modified 70 Unique models to remove the arms. <br />
                 <figcaption>Viewport of VRHands' Blender file</figcaption>
                 <img src="/images/Portfolio Images/VrHands.PNG"
                 alt="Viewport of VRHands' Blender file"
-                width="500">
+                width="400">
             </figure>
             <figure>
                 <figcaption>Snippet of the Doc I made while making all the hands</figcaption>
                 <img src="/images/Portfolio Images/VrHands1.PNG"
                 alt="Snippet of the Doc I made while making all the hands"
-                width="500">
+                width="400">
             </figure>
     </details>
 </div> 
 
 
+
+<br />
 
 Skills
 ======
