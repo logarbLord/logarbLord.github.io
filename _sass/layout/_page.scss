@@ -351,6 +351,9 @@
 .comment__content-wrapper {
   float: right;
   width: calc(100% - 60px);
+  background-color: var(--global-content-bg);
+  padding: 1rem;
+  border-radius: $border-radius;
 
   @include breakpoint($large) {
     width: calc(100% - 100px);
@@ -359,7 +362,6 @@
 
 .comment__author {
   margin: 0;
-  background-color: var(--global-content-bg);
 
   a {
     text-decoration: none;
