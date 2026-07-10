@@ -34,16 +34,16 @@ redirect_from:
     
     
     
-    <br />
+<br />
 
 Skills
 ======
-    * 3d art
-      * Modelling
-        * Model creation and modification 
-        * Weight painting / simple rigging
-        * Using geometry nodes for repetitive tasks/geometry
-      * Texturing
-      * Unity bepinex modding (very basic)
+* 3d art
+  * Modelling
+      * Model creation and modification 
+      * Weight painting / simple rigging
+      * Using geometry nodes for repetitive tasks/geometry
+  * Texturing
+  * Unity bepinex modding (very basic)
 
 </div>
