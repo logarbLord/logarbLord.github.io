@@ -22,7 +22,7 @@ I currently hang out with the [WTT team](https://www.welcometotarkov.com/). They
     </a>
 </p>
 <script>
-    function randomRedirect(){
+    function randomRedirect(event){
         event.preventDefault();
         const links = [
             /* King Gizzard & the Lizard Wizard - Level 5 */
@@ -72,12 +72,12 @@ I currently hang out with the [WTT team](https://www.welcometotarkov.com/). They
         ];
         window.location.href = 
             links[Math.floor(Math.random() * links.length)];
-        <!--
+        /*
             math.random (random number between 0.0 and 1.0)
             links.length (gets number of items in array (links))
             math.floor (rounds down. it needs a whole number)
             so this multiplies a random value (0.0-1.0), then multiplies it by the amount of items in the array, and rounds down. then redirects to that number page.
-        -->
+        */
     }
 </script>
 
