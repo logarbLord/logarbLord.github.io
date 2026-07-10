@@ -18,7 +18,7 @@ I currently hang out with the [WTT team](https://www.welcometotarkov.com/). They
     <a href="RandomSong" onclick="randomRedirect(event)">
         <img    src="/images/cooltextFlamingMusic.gif"
                 alt="Music gif, random redirect when clicked."
-                width="300">
+                width="500">
     </a>
 </p>
 <script>
