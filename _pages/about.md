@@ -11,7 +11,7 @@ redirect_from:
 Hello, I am an online digital artist. I mostly make tarkov mods/assets, but sometimes I'll dip into other ventures (such as this website) to test my skills and conviction. This website is to catalogue my art/creative ventures. Feel free to explore!
 
 ### Associates
-I currently hang out with the [WTT team](https://www.welcometotarkov.com/). They are a huge help in learning both asset creation and tarkov modding.
+I currently hang out with the [WTT team](https://www.welcometotarkov.com/). They have been a huge help in learning both asset creation and tarkov modding.
 <br />Their [Discord](https://discord.com/invite/welcometotarkov)
 
 <p align="center">
