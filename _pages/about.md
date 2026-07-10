@@ -1,18 +1,24 @@
 ---
 permalink: /
-title: "Page Header"
+title: "Dar' Zhar"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+## About me
+Hello, I am an online digital artist. I mostly make tarkov mods/assets, but sometimes I'll dip into other ventures (such as this website) to test my skills and conviction. This website is to catalogue my art/creative ventures. Feel free to explore!
+
+
 Blah blah yapping yapperton test text here
 
 below is a gif test. clicking it (href) sets where it directs to.
 <p align="center">
     <a href="youtube.com">
-        <img src="https://cdn.discordapp.com/attachments/1152318423347495036/1525138073321734154/sniper.gif?ex=6a524b04&is=6a50f984&hm=0a964a0821ff659f80e89111db667f998da9f0c39d043e645fc0e1085056e71d" alt="Sniper GIF" width="300">
+        <img    src="https://cdn.discordapp.com/attachments/1152318423347495036/1525138073321734154/sniper.gif?ex=6a524b04&is=6a50f984&hm=0a964a0821ff659f80e89111db667f998da9f0c39d043e645fc0e1085056e71d"
+                alt="Sniper GIF"
+                width="300">
     </a>
 </p>
 
