@@ -4,7 +4,11 @@
 
 .archive {
   margin-bottom: 2em;
-
+  background-color: var(--global-content-bg);
+  border: 1px solid var(--global-border-color);
+  border-radius: $border-radius;
+  padding: 2em;
+  
   @include breakpoint($medium) {
     @include span(12 of 12);
   }
