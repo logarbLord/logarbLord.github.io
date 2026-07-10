@@ -17,7 +17,7 @@ I currently hang out with the [WTT team](https://www.welcometotarkov.com/). They
 <p align="center">
     <a href="#" onclick="randomRedirect()">
         <img    src="/images/cooltextFlamingMusic.gif"
-                alt="Sniper GIF"
+                alt="Music gif, random redirect when clicked."
                 width="300">
     </a>
 </p>
