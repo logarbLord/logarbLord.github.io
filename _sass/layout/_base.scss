@@ -5,6 +5,9 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  background-image: var(--global-bg-image);
+  background-repeat: repeat;
+  background-position: center;
   
   scroll-behavior: smooth;
 }
@@ -13,9 +16,6 @@ body {
   /* Set via _themes.scss */
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
-  background-image: var(--global-bg-image);
-  background-repeat: repeat;
-  background-position: center;
   
   margin: 0;
   padding: $masthead-height 0 0;

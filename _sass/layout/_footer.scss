@@ -5,9 +5,6 @@
 .page__footer {
   @include clearfix;
   background-color: var(--global-footer-bg-color);
-  background-image: var(--global-bg-image);
-  background-repeat: repeat;
-  background-position: center;
   
   color: var(--global-text-color-light);
 
