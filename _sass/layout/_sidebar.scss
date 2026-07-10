@@ -171,13 +171,13 @@
 
   background-color: var(--global-content-bg);
   padding: 0.25rem 1rem;
-  border-radius: $border-radius $border-radius 0 0;
+  border-radius: $border-radius $border-radius 2px 2px;
   
   @include breakpoint($large) {
     display: block;
     width: 100%;
     padding-top: 0.25rem;
-    padding-left: 2px;
+    padding-left: 0;
     padding-right: 0;
   }
 }

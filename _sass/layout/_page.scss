@@ -29,7 +29,7 @@
     @include full();
      
     border: 1px solid var(--global-border-color);
-    border-radius: 2px;
+    border-radius: $border-radius;
     padding: 2em;
 
     .page__content,
