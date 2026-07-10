@@ -27,12 +27,12 @@
   .page__inner-wrap {
     background-color: var(--global-content-bg);
     @include full();
+    
+    border: 1px solid var(--global-border-color);
+    border-radius: $border-radius;
+    padding: 2em;
 
-    .page__content {
-      border: 1px solid var(--global-border-color);
-      border-radius: $border-radius;
-      padding: 2em;
-    },
+    .page__content,
     .page__meta,
     .page__share {
       @include full();
