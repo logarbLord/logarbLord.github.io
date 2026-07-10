@@ -15,7 +15,7 @@ I currently hang out with the [WTT team](https://www.welcometotarkov.com/). They
 <br />[Their Discord](https://discord.com/invite/welcometotarkov)
 
 <p align="center">
-    <a href="RandomSong" onclick="randomRedirect()">
+    <a href="RandomSong" onclick="randomRedirect(event)">
         <img    src="/images/cooltextFlamingMusic.gif"
                 alt="Music gif, random redirect when clicked."
                 width="300">
@@ -23,6 +23,7 @@ I currently hang out with the [WTT team](https://www.welcometotarkov.com/). They
 </p>
 <script>
     function randomRedirect(){
+        event.preventDefault();
         const links = [
             "https://www.youtube.com/watch?v=mp-HWukUDSE",
             "https://www.youtube.com/watch?v=vatcanQQJvQ",
