@@ -11,6 +11,8 @@ redirect_from:
 
 Experience
 ======
+<div style="margin-left: 1rem;">
+
 ## VrHands
 <div style="margin-left: 2rem;">
     For this mod I modified 70 Unique models to remove the arms and keep the hands.<br />
@@ -35,7 +37,7 @@ Experience
     This was a fun one, fully custom models as well as minor animation tweaking. <br />
     [INSERT LINK TO PORTFOLIO ENTRY]
 </div>
-
+</div>
 
 
 <br />
