@@ -24,9 +24,27 @@ I currently hang out with the [WTT team](https://www.welcometotarkov.com/). They
 <script>
     function randomRedirect(){
         const links = [
-            "https://youtube.com",
-            "https://github.com",
-            "https://google.com"
+            "https://www.youtube.com/watch?v=mp-HWukUDSE",
+            "https://www.youtube.com/watch?v=vatcanQQJvQ",
+            "https://www.youtube.com/watch?v=UxMkQJDbUr8",
+            "https://www.youtube.com/watch?v=kimPUWSwxIs",
+            "https://www.youtube.com/watch?v=O0Cw1SLdxxE",
+            "https://www.youtube.com/watch?v=T24rF_x0TmQ",
+            "https://www.youtube.com/watch?v=QB15JltRf-M",
+            "https://www.youtube.com/watch?v=N6DMXNyvAxs",
+            "https://www.youtube.com/watch?v=DjGxGMxvg4M",
+            "https://www.youtube.com/watch?v=IhCDK_pSjnk",
+            "https://www.youtube.com/watch?v=8pIhrMIsPAE",
+            "https://www.youtube.com/watch?v=VZ3cuw9cdI8",
+            "https://www.youtube.com/watch?v=hbe3CQamF8k",
+            "https://www.youtube.com/watch?v=fR1c8Qw3wEA",
+            "https://www.youtube.com/watch?v=BqnG_Ei35JE",
+            "https://www.youtube.com/watch?v=p_AY5pAAbQY",
+            "https://www.youtube.com/watch?v=6tz4xJWbY9s",
+            "https://www.youtube.com/watch?v=8jJZA-O_B78",
+            "https://www.youtube.com/watch?v=ifH7TDnyVm0",
+            "https://www.youtube.com/watch?v=nmYi5u9BhtI",
+            "https://www.youtube.com/watch?v=_iaGcdlWk6k"
         ];
         window.location.href = 
             links[Math.floor(Math.random() * links.length)];
