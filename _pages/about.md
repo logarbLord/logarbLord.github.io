@@ -12,7 +12,7 @@ Blah blah yapping yapperton test text here
 below is a gif test. clicking it (href) sets where it directs to.
 <p align="center">
     <a href="youtube.com">
-        <img src="https://cdn.discordapp.com/attachments/1152318423347495036/1525138073321734154/sniper.gif" alt="Sniper GIF">
+        <img src="https://cdn.discordapp.com/attachments/1152318423347495036/1525138073321734154/sniper.gif?ex=6a524b04&is=6a50f984&hm=0a964a0821ff659f80e89111db667f998da9f0c39d043e645fc0e1085056e71d" alt="Sniper GIF" width="300">
     </a>
 </p>
 
