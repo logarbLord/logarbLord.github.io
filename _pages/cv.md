@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Experience
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Experience
+=====
 
 ### VrHands
 <div style="margin-left: 2rem;">

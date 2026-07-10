@@ -47,6 +47,10 @@
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
 
+  &:empty {
+    display: none;
+  }
+  
   a + a {
     opacity: 0.5;
   }
