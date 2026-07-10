@@ -9,39 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Experience
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### VrHands
+For this mod I modified 70 Unique models to remove the arms. <br />
+<div style="margin-left: 40px;">
+    <details> 
+        <summary> Information </summary>
+            The process included ripping the game assets, cutting the arms off the model, making a consistent method to close the holes, fixing the weight paint from the ripped assets, and substance painting the texture so the nubs were not random textures. <br />
+            <figure>
+                <figcaption>Viewport of VRHands' Blender file</figcaption>
+                <img src="/images/Portfolio Images/VrHands.PNG"
+                alt="Viewport of VRHands' Blender file"
+                width="500">
+            </figure>
+            <figure>
+                <figcaption>Snippet of the Doc I made while making all the hands</figcaption>
+                <img src="/images/Portfolio Images/VrHands1.PNG"
+                alt="Snippet of the Doc I made while making all the hands"
+                width="500">
+            </figure>
+    </details>
+</div> 
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 3d art
+  * Modelling
+    * Model creation and modification 
+    * Weight painting / simple rigging
+    * Using geometry nodes for repetitive tasks/geometry
+  * Texturing
+* Unity bepinex modding (very basic)
 
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

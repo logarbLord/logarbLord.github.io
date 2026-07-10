@@ -12,7 +12,7 @@ Hello, I am an online digital artist. I mostly make tarkov mods/assets, but some
 
 ### Associates
 I currently hang out with the [WTT team](https://www.welcometotarkov.com/). They are a huge help in learning both asset creation and tarkov modding.
-<br />[Their Discord](https://discord.com/invite/welcometotarkov)
+<br />Their [Discord](https://discord.com/invite/welcometotarkov)
 
 <p align="center">
     <a href="RandomSong" onclick="randomRedirect(event)">
