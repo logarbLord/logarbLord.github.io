@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ##title here
+title: "Dar'Zhar"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,30 +11,27 @@ redirect_from:
 Hello, I am an online digital artist. I mostly make tarkov mods/assets, but sometimes I'll dip into other ventures (such as this website) to test my skills and conviction. This website is to catalogue my art/creative ventures. Feel free to explore!
 
 ### Associates
-I currently hang out with the [WTT team](https://www.welcometotarkov.com/). They are a huge help in learning both asset making and tarkov modding.
+I currently hang out with the [WTT team](https://www.welcometotarkov.com/). They are a huge help in learning both asset creation and tarkov modding.
 <br />[Their Discord](https://discord.com/invite/welcometotarkov)
 
-Blah blah yapping yapperton test text here
-
-Video Test
 <p align="center">
-    <iframe
-        width="560"
-        height="315"
-        src="https://www.youtube.com/watch?v=ADj2jDqT4uY"
-        title="Youtube Player Test"
-        frameborder="0">
-    </iframe>
-</p>
-
-below is a gif test. clicking it (href) sets where it directs to.
-<p align="center">
-    <a href="youtube.com">
-        <img    src="https://cdn.discordapp.com/attachments/1152318423347495036/1525138073321734154/sniper.gif?ex=6a524b04&is=6a50f984&hm=0a964a0821ff659f80e89111db667f998da9f0c39d043e645fc0e1085056e71d"
+    <a href="#" onclick="randomRedirect()">
+        <img    src="/images/cooltextFlamingMusic.gif"
                 alt="Sniper GIF"
                 width="300">
     </a>
 </p>
+<script>
+    function randomRedirect(){
+        const links = [
+            "youtube.com",
+            "github.com",
+            "google.com"
+        ];
+        window.location.href = 
+            links[Math.floor(Math.random() * links.length)];
+    }
+</script>
 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
