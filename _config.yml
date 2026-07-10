@@ -24,9 +24,9 @@ repository               : "logarbLord/logarbLord.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Vernon V"
-  pronouns         : "He/They"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : " Vernon V"
+  pronouns         : " He/They"  
+  bio              : " Short biography for the left-hand sidebar"
   location         : "Zambia"
   employer         : "Your Mother"
   uri              : # URL
