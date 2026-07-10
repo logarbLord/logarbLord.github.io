@@ -347,13 +347,10 @@
     border: 1px solid var(--global-border-color);
   }
 }
- 
+
 .comment__content-wrapper {
   float: right;
   width: calc(100% - 60px);
-  background-color: var(--global-content-bg);
-  padding: 1rem;
-  border-radius: $border-radius;
 
   @include breakpoint($large) {
     width: calc(100% - 100px);
