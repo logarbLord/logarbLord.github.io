@@ -36,6 +36,19 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+        /* Custom icon */ 
+      {% if author.sptforge %}
+        <li>
+            <a href="{{ author.sptforge }}">
+                <img src="{{ '/images/spt.png' | relative_url }}"
+                     alt="SPT Forge"
+                     class="author-custom-icon"
+                    style="width:1.25em; height:1em; margin-right:.05em; vertical-align:-0.125em;">
+                SPT Forge
+            </a>
+        </li>
+      {% endif %}
+        
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}
