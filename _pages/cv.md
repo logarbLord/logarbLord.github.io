@@ -15,7 +15,7 @@ Experience
 ### VrHands
 <div style="margin-left: 2rem;">
     For this mod I modified 70 Unique models to remove the arms and keep the hands.<br />
-    [INSERT LINK TO PORTFOLIO ENTRY]
+    [VrHands Portfolio Entry](/portfolio/P_VrHands/)
 </div>
 
 ### Ratshot of Unusual Size
