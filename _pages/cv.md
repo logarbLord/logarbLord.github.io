@@ -12,10 +12,9 @@ redirect_from:
 Experience
 =====
 
-### VrHands
+### [VrHands](/portfolio/P_VrHands/)
 <div style="margin-left: 2rem;">
     For this mod I modified 70 Unique models to remove the arms and keep the hands.<br />
-    <a href="/portfolio/P_VrHands/" class="btn btn--primary">VrHands Portfolio</a>
 </div>
 
 ### Ratshot of Unusual Size
