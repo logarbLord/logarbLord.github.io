@@ -16,18 +16,21 @@ Experience
 <div style="margin-left: 2rem;">
     For this mod I modified 70 Unique models to remove the arms and keep the hands.<br />
 </div>
+<br/>
 
 ### Ratshot of Unusual Size
 <div style="margin-left: 2rem;">
     A Custom .50 BMG round that was based off of a viral meme. <br />
     [INSERT LINK TO PORTFOLIO ENTRY]
 </div>
-    
+<br/>
+
 ### Ratshot of Usual Size
 <div style="margin-left: 2rem;">
     Custom models for every other caliber variant in vanilla tarkov (excluding shotguns) <br />
     [INSERT LINK TO PORTFOLIO ENTRY]
 </div>
+<br/>
 
 ### 22 Crackshot
 <div style="margin-left: 2rem;">
@@ -35,8 +38,7 @@ Experience
     This was a fun one, fully custom models as well as minor animation tweaking. <br />
     [INSERT LINK TO PORTFOLIO ENTRY]
 </div>
-
-
+<br/>
 <br />
 
 Skills
