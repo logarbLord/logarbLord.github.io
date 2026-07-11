@@ -1,5 +1,6 @@
 ---
 title: "VR Hands (tarkov)"
+order: 1
 excerpt: "A brief summary of my VR Hands mod's assets <br/><img src='/images/Portfolio Images/icons500x300/VRhandsIcon.png'>"
 collection: portfolio
 ---
@@ -19,7 +20,7 @@ The process included ripping the game assets, cutting the arms off the model, ma
 </figure>
 <figure>
     <figcaption>Video render of 70 hands</figcaption>
-        <video controls width="400">
+        <video controls width="700">
             <source src="/images/Portfolio Images/HandsRender.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
