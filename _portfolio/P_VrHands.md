@@ -9,7 +9,7 @@ This was my very first venture into both modding and modelling, the first 'versi
 <br/>
 For the final mod, the process included ripping the game assets, cutting the arms off the model, making a consistent method to close the holes, fixing the weight paint from the ripped assets, and substance painting the texture so the nubs were not random textures. <br />
 <br/>
-I unfortunately don't have many screenshots of me making this as it was mostly a passion project and wasn't treated as a learning experience by me.
+I unfortunately don't have many screenshots of me making this as it was mostly a passion project and wasn't really treated as a learning experience.
 <figure>
     <figcaption>Viewport of VRHands' Blender file</figcaption>
         <img src="/images/Portfolio Images/P_VrHands/VrHands.PNG" 
