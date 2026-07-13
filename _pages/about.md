@@ -68,7 +68,11 @@ I currently hang out with the [WTT team](https://www.welcometotarkov.com/). They
             /* Erik Satie - Gnossienne in Asia Minor. interpreted by Forgotten Fish Memory Orchestra */
                 "https://www.youtube.com/watch?v=_iaGcdlWk6k",
             /* The Chemical Brothers - Go */
-                "https://www.youtube.com/watch?v=LO2RPDZkY88"
+                "https://www.youtube.com/watch?v=LO2RPDZkY88",
+            /* Jamie xx - Gosh */
+                "https://www.youtube.com/watch?v=hTGJfRPLe08",
+            /* GENER8ION - STORM */
+                "https://www.youtube.com/watch?v=x6_mbnsh6VU"
         ];
         window.location.href = 
             links[Math.floor(Math.random() * links.length)];
