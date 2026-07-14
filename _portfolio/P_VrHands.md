@@ -14,7 +14,7 @@ For the final mod, the process included ripping the game assets, cutting the arm
 <figure>
     <img src="/images/Portfolio Images/P_VrHands/VrHands.PNG" 
     alt="Viewport of VRHands' Blender file"         
-    width="400">
+    width="100%">
         <figcaption>
             Viewport of VRHands' Blender file
         </figcaption>
@@ -22,13 +22,13 @@ For the final mod, the process included ripping the game assets, cutting the arm
 <figure>
     <img src="/images/Portfolio Images/P_VrHands/VrHands1.PNG"
     alt="Snippet of the Doc I made while making all the hands"
-    width="400"> 
+    width="100%"> 
         <figcaption>
             Snippet of the Doc I made while making all the hands
         </figcaption>
 </figure><br/>
 <figure>
-    <video controls width="400">
+    <video controls width="100%">
         <source src="/images/Portfolio Images/P_VrHands/HandsRender.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
