@@ -8,7 +8,7 @@ collection: portfolio
 [comment]: <> (Talk about how it started and how it blew out of control. 50bmg -> all non-shotgun calibers 50 bmg original meme vs model image took 2 months off and on restarted multiple times after learning new processes for game model making and texturing.)
 
 The first rat shot mod ([Ratshot of Unusual Size](https://forge.sp-tarkov.com/mod/2487/ratshot-of-unusual-size)) was just for .50 BMG after seeing a meme image of a ratshot variant, 
-but shortly after posting it my 'friends' brought up the idea of making ratshot for all calibers. Two months, 3 blend files, 2 substance files, and dozens of restarts later, I released the final mod [Ratshot of usual size](https://forge.sp-tarkov.com/mod/2561/ratshot-of-usual-size). Which I had my friend [bushtail](bushtail.ca) publish so I wouldn't have to maintain the code, lol. <br/>
+but shortly after posting it my 'friends' brought up the idea of making ratshot for all calibers. Two months, 3 blend files, 2 substance files, and dozens of restarts later, I released the final mod [Ratshot of usual size](https://forge.sp-tarkov.com/mod/2561/ratshot-of-usual-size). Which I had my friend [bushtail](https://bushtail.ca) publish so I wouldn't have to maintain the code, lol. <br/>
 <br/> 
 While there was nothing too worthwhile for modelling the bullet casings, working with the shellshot was certainly a challenge! 
 I quickly realised simulating the pellets into the plastic tips was not going to work so I dipped my toes into geometry nodes, 
