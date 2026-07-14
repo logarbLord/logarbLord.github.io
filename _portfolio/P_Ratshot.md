@@ -66,7 +66,7 @@ Speaking of, all the ammunition boxes for my mod are to (bullet) scale! See the 
 </figure>
 
 <br/>
-One last thing I'd like to brag about is that on every box; The Grain is calculated to the estimated projectile weight, and all the bar codes are custom per caliber. Keep an eye out on the boxes ;) <br/>
+One last thing I'd like to brag about is that on every box; The Grain is calculated to the estimated projectile weight, and all the barcodes are custom per caliber. Keep an eye out on the boxes ;) <br/>
 <figure>
     <video controls width="100%">
             <source src="/images/Portfolio Images/P_Ratshot/RatshotModelShowcase.mp4" type="video/mp4">
