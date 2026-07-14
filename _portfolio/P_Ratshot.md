@@ -26,7 +26,7 @@ After having made the geometry nodes what was left was to simplify the now reali
 The process that I ended up following was to use a boolean modifier to merge the mesh into one single object, 
 then using the mesh that the node was generated on as a boolean collider and voiding what the mesh came in contact with, 
 thus making a hollow object. After which, using a decimate modifier until the vertex count dropped to an acceptable amount 
-(I deemed sub 7k my goal on every caliber except for .338 lapua and .50bmg). <br/>
+(I set sub 7k verts my goal on every caliber except for .338 lapua and .50bmg). <br/>
 <figure style="display: flex; flex-direction: column; align-items: center;">
     <img src='/images/Portfolio Images/P_Ratshot/tkm_UV.png'
     alt="UV of the tkm model"
