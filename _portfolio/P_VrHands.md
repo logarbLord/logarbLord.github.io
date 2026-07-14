@@ -12,20 +12,20 @@ I unfortunately don't have many screenshots of me making this as it was mostly a
 For the final mod, the process included ripping the game assets, cutting the arms off the model, making a consistent method to close the holes, fixing the weight paint from the ripped assets, and substance painting the texture so the nubs were not random textures. 
 
 <figure>
-    <figcaption>Viewport of VRHands' Blender file</figcaption>
-        <img src="/images/Portfolio Images/P_VrHands/VrHands.PNG" 
-        alt="Viewport of VRHands' Blender file"         
-        width="400">
+    <img src="/images/Portfolio Images/P_VrHands/VrHands.PNG" 
+    alt="Viewport of VRHands' Blender file"         
+    width="400">
+        <figcaption>Viewport of VRHands' Blender file</figcaption>
 </figure>
 <figure>
-    <figcaption>Snippet of the Doc I made while making all the hands</figcaption>
-        <img src="/images/Portfolio Images/P_VrHands/VrHands1.PNG"
-        alt="Snippet of the Doc I made while making all the hands"
-        width="400"> 
+    <img src="/images/Portfolio Images/P_VrHands/VrHands1.PNG"
+    alt="Snippet of the Doc I made while making all the hands"
+    width="400"> 
+        <figcaption>Snippet of the Doc I made while making all the hands</figcaption>
 </figure>
 <figure>
     <figcaption>Video render of 70 hands</figcaption>
-        <video controls width="700">
+        <video controls width="400">
             <source src="/images/Portfolio Images/P_VrHands/HandsRender.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
