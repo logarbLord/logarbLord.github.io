@@ -15,18 +15,24 @@ For the final mod, the process included ripping the game assets, cutting the arm
     <img src="/images/Portfolio Images/P_VrHands/VrHands.PNG" 
     alt="Viewport of VRHands' Blender file"         
     width="400">
-        <figcaption>Viewport of VRHands' Blender file</figcaption>
+        <figcaption>
+            Viewport of VRHands' Blender file
+        </figcaption>
 </figure>
 <figure>
     <img src="/images/Portfolio Images/P_VrHands/VrHands1.PNG"
     alt="Snippet of the Doc I made while making all the hands"
     width="400"> 
-        <figcaption>Snippet of the Doc I made while making all the hands</figcaption>
-</figure>
+        <figcaption>
+            Snippet of the Doc I made while making all the hands
+        </figcaption>
+</figure><br/>
 <figure>
-    <figcaption>Video render of 70 hands</figcaption>
-        <video controls width="400">
-            <source src="/images/Portfolio Images/P_VrHands/HandsRender.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
+    <video controls width="400">
+        <source src="/images/Portfolio Images/P_VrHands/HandsRender.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+        <figcaption>
+            Video render of 70 hands
+        </figcaption>
 </figure>
