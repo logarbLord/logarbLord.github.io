@@ -3,6 +3,10 @@
    ========================================================================== */
 /* Color codes used for the theme */
 $primary-color              : #30e3ca;
+$dark-primary-color         : mix(#fff, $primary-color, 40%);
+$darker-primary-color       : mix(#fff, $primary-color, 60%);
+$light-primary-color        : mix(#000, $primary-color, 50%);
+$lighter-primary-color      : mix(#000, $primary-color, 90%);
 $background                 : #1a2421;
 $background-light           : #243430;
 $background-lighter        : #2e443f;
