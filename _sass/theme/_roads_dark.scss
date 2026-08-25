@@ -7,17 +7,29 @@ $dark-primary-color         : mix(#fff, $primary-color, 40%);
 $darker-primary-color       : mix(#fff, $primary-color, 60%);
 $light-primary-color        : mix(#000, $primary-color, 50%);
 $lighter-primary-color      : mix(#000, $primary-color, 90%);
-$background                 : #1a2421;
-$background-light           : #243430;
-$background-lighter        : #2e443f;
+/* Comment Out Originals. */
+/* $background                 : #1a2421; */
+$background                 : #061A08;
+/* $background-light           : #243430; */
+$background-light           : #09250E;
+/* $background-lighter        : #2e443f; */
+$background-lighter        : #0C3213;
+/* $text                      : #e8f5f3; */
 $text                      : #e8f5f3;
+/* $text-muted                : #b8d5d1; */
 $text-muted                : #b8d5d1;
+/* $link                      : #4effd9; */
 $link                      : #4effd9;
+/* $link-dark                 : #7cffdf; */
 $link-dark                 : #7cffdf;
+/* $link-light                : #2bd4bd; */
 $link-light                : #2bd4bd;
-$footer                    : #0f1614;
-$border                    : #2e443f;
-$border-light              : #3d5950;
+/* $footer                    : #0f1614; */
+$footer                    : #041106;
+/* $border                    : #2e443f; */
+$border                    : #0C3213;
+/* $border-light              : #3d5950; */
+$border-light              : #104116;
 
 /* Color codes used for the site */
 $danger-color               : #e74c3c;
