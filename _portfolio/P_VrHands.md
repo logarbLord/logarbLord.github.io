@@ -5,7 +5,7 @@ excerpt: "A brief summary of my VR Hands mod's assets <br/><img src='/images/Por
 collection: portfolio
 ---
 
-This was my very first venture into both modding and modeling, the first 'version' was a reskin that I made of [Yukovr's vrhands](https://forge.sp-tarkov.com/mod/1815/vr-gloves) mod which I modified because I didn't like the Youtube logo on the hands, haha. <br/>
+This was my very first venture into both modding and modeling, the first 'version' was a reskin that I made of [Yukovr's vrhands](https://sp-mod.com/mod/1815/vr-gloves) mod which I modified because I didn't like the Youtube logo on the hands, haha. <br/>
 <br/>
 I unfortunately don't have many screenshots of me making this, as it was mostly a passion project and wasn't really treated as a learning experience. <br />
 <br/>
