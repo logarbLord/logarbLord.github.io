@@ -2,12 +2,12 @@
    ROADS THEME - DARK VERSION
    ========================================================================== */
 /* Color codes used for the theme */
-$primary-color              : #30e3ca;
+/* $primary-color              : #30E3CA; */
+$primary-color              : #09892F;
 $dark-primary-color         : mix(#fff, $primary-color, 40%);
 $darker-primary-color       : mix(#fff, $primary-color, 60%);
 $light-primary-color        : mix(#000, $primary-color, 50%);
 $lighter-primary-color      : mix(#000, $primary-color, 90%);
-/* Comment Out Originals. */
 /* $background                 : #1a2421; */
 $background                 : #061A08;
 /* $background-light           : #243430; */
@@ -19,11 +19,9 @@ $text                      : #e8f5f3;
 /* $text-muted                : #b8d5d1; */
 $text-muted                : #b8d5d1;
 /* $link                      : #4effd9; */
-$link                      : #4effd9;
-/* $link-dark                 : #7cffdf; */
-$link-dark                 : #7cffdf;
-/* $link-light                : #2bd4bd; */
-$link-light                : #2bd4bd;
+$link                      : #00B026;
+$link-dark                 : mix(#000, $link, 25%);
+$link-light                : mix(#fff, $link, 25%);
 /* $footer                    : #0f1614; */
 $footer                    : #041106;
 /* $border                    : #2e443f; */

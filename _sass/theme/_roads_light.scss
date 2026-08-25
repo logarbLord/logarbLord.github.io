@@ -2,20 +2,26 @@
   ROADS THEME - LIGHT VERSION
   ========================================================================== */
 /* Color codes used for the theme */
-$primary-color              : #11999e;
+/* $primary-color              : #11999e; */
+$primary-color              : #08A551;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#fff, $primary-color, 50%);
 $lighter-primary-color      : mix(#fff, $primary-color, 90%);
-$background                 : #f3f6f6;
+/* $background                 : #f3f6f6; */
+$background                 : #EBFAF0;
+/* $background-light           : #ffffff; */
 $background-light           : #ffffff;
-$background-lighter        : #fafbfb;
+/* $background-lighter        : #fafbfb; */
+$background-lighter        : #FDF7F7;
 $text                      : #40514e;
 $text-muted                : #5c6d6a;
-$link                      : #11999e;
+/* $link                      : #11999e; */
+$link                      : #08A551;
 $link-dark                 : mix(#000, $link, 25%);
 $link-light                : mix(#fff, $link, 25%);
-$footer                    : #30e3ca;
+/* $footer                    : #30e3ca; */
+$footer                    : #22F160;
 $border                    : mix(#fff, #40514e, 75%);
 $border-dark               : mix(#fff, #40514e, 60%);
 
